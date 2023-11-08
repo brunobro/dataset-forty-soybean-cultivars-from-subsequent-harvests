@@ -1,2 +1,5 @@
-# dataset-forty-soybean-cultivars-from-subsequent-harvests
-We present a dataset obtained from forty soybean cultivars planted in subsequent seasons. The experiment used randomized blocks, arranged in a split-plot scheme, with four replications. 
+# Dataset: Forty soybean cultivars from subsequent harvests
+
+Soybean cultivation is one of the most important because it is used in several segments of the food industry. The evaluation of soybean cultivars subject to different planting and harvesting characteristics is an ongoing field of research. In this paper, we present a dataset obtained from forty soybean cultivars planted in subsequent seasons. The experiment used randomized blocks, arranged in a split-plot scheme, with four replications. The following variables were collected: plant height, insertion of the first pod, number of stems, number of legumes per plant, number of grains per pod, thousand seed weight, and grain yield, resulting in 320 data samples. The dataset presented can be used by researchers from different fields of activity.
+
+For citation:  Oliveira, B. R.; Zuffo, A. M.; Silva, F. C.; Mezzomo, R; Barrozo, L. M.; Zanatta, T. S.; Santos, J. C.; Sousa, C. H.; Coelho, Y. P.; Caldas, A. d. (2023). Dataset: Forty soybean cultivars from subsequent harvests. Trends in Agricultural and Environmental Sciences, (e230005), DOI: 10.46420/TAES.e230005
